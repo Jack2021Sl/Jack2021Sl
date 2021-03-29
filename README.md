@@ -6,7 +6,16 @@
 
 ## My Hobbies ! 🏴‍☠️
 
+Names | Percentage
+------------ | -------------
+Coding | 70%
+Trolling | 20%
+
 ## Position ⛔
 
-### Open For Collabs 🧱
+### Open For Collabs [√]
+
+### Active [√]
+
+### Employed [x]
 
