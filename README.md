@@ -13,9 +13,9 @@ Trolling | 20%
 
 ## Position ⛔
 
- - [√] Open For Collabs 
+ - [x] Open For Collabs 
 
- - [√] Active
+ - [x] Active
 
  - [x] Employed
 
