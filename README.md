@@ -17,5 +17,5 @@ Trolling | 20%
 
  - [x] Active
 
- - [x] Employed
+ - [x] Rickroller
 
