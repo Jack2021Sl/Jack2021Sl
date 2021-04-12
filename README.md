@@ -1,6 +1,6 @@
 
 [![Github Badge](https://img.shields.io/badge/-Jsçk-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Jsçk/)](https://www.github.com/Jack2021Sl) <p align='left'>I'm someone who loves coding </p>
-<p align=left> <img src=https://komarev.com/ghpvc/?username=Jsçk alt=Jsçk /> </p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=Jack2021Sl alt=Jsçk /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Jack2021Sl&show_icons=true&include_all_commits=true)](https://github.com/Jack2021Sl/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jack2021Sl&layout=compact)](https://github.com/Jack2021Sl/github-readme-stats)
