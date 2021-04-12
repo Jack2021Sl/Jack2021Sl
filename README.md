@@ -1,9 +1,9 @@
 
-[![Github Badge](https://img.shields.io/badge/-Jsçk-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Jsçk/)](https://www.github.com/Jsçk/) <p align='left'>I'm someone who loves coding </p>
+[![Github Badge](https://img.shields.io/badge/-Jsçk-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Jsçk/)](https://www.github.com/Jack2021Sl) <p align='left'>I'm someone who loves coding </p>
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Jsçk alt=Jsçk /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Jsçk&show_icons=true&include_all_commits=true)](https://github.com/Jsçk/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jsçk&layout=compact)](https://github.com/Jsçk/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Jsçk&show_icons=true&include_all_commits=true)](https://github.com/Jack2021Sl/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jsçk&layout=compact)](https://github.com/Jack2021Sl/github-readme-stats)
 
 # Ello There! 😁
 
